@@ -36,9 +36,9 @@ public class Manav_kasa_hesapla {
         System.out.print("kac kilo patlican : ");
         float patlican_kac  = input.nextFloat();
 
-        double result = (armut_kac*armut) + (elma+elma_kac) + (domates*domates_kac) + (muz_kac*muz_kac)+(patlican_kac*patlican);
+            double result = (armut_kac*armut) + (elma+elma_kac) + (domates*domates_kac) + (muz_kac*muz_kac)+(patlican_kac*patlican);
 
-        System.out.println("Sepet Tutari : " + result);
+            System.out.println("Sepet Tutari : " + result);
 
 
     }
