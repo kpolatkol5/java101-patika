@@ -7,4 +7,4 @@ public class Main {
         System.out.println(helperArray.avgArray(dizi1));
         System.out.println(helperArray.harmoikAvgOfArray(dizi1));
     }
-}
+} 
